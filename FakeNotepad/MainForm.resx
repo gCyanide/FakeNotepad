@@ -1,0 +1,1098 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="maximizeButton.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="minimizeButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="&gt;&gt;zoomTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;leftControl.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;minimizeButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="headerLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;muricaTSMI.Name" xml:space="preserve">
+    <value>muricaTSMI</value>
+  </data>
+  <data name="&gt;&gt;bottomControl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="formatTSMI.Text" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="&gt;&gt;editTSS1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rightControl.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;selectTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="leftControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
+  </data>
+  <data name="&gt;&gt;copyTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zoomTSMI.Text" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
+  <data name="toolbarMenuStrip.Size" type="System.Drawing.Size, System.Drawing">
+    <value>924, 33</value>
+  </data>
+  <data name="mainRTB.WordWrap" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="existTSMI.Text" xml:space="preserve">
+    <value>Exist (?)</value>
+  </data>
+  <data name="minimizeButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>804, 0</value>
+  </data>
+  <data name="&gt;&gt;infoTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="headerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;redoTSMI.Name" xml:space="preserve">
+    <value>redoTSMI</value>
+  </data>
+  <data name="&gt;&gt;sizableControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="headerLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;topControl.Parent" xml:space="preserve">
+    <value>leftControl</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="fontTSMI.Text" xml:space="preserve">
+    <value>Font...</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;rightControl.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;editTSMI.Name" xml:space="preserve">
+    <value>editTSMI</value>
+  </data>
+  <data name="sizableControl.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;mainRTB.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rightControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>914, 40</value>
+  </data>
+  <data name="convertToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 34</value>
+  </data>
+  <data name="&gt;&gt;acidpunkTSMI.Name" xml:space="preserve">
+    <value>acidpunkTSMI</value>
+  </data>
+  <data name="&gt;&gt;toolbarMenuStrip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="toolbarMenuStrip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 40</value>
+  </data>
+  <data name="&gt;&gt;zoom100TSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolbarMenuStrip.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="newTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="&gt;&gt;existTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;printDocument.Type" xml:space="preserve">
+    <value>System.Drawing.Printing.PrintDocument, System.Drawing.Common, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</value>
+  </data>
+  <data name="&gt;&gt;encodingTSMI.Name" xml:space="preserve">
+    <value>encodingTSMI</value>
+  </data>
+  <data name="wordWrapTSMI.Text" xml:space="preserve">
+    <value>Word wrap</value>
+  </data>
+  <data name="&gt;&gt;barbiegirlTSMI.Name" xml:space="preserve">
+    <value>barbiegirlTSMI</value>
+  </data>
+  <data name="fakeMenuStrip.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;leftControl.Name" xml:space="preserve">
+    <value>leftControl</value>
+  </data>
+  <data name="mainRTB.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;exitButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;blackandwhiteTSMI.Name" xml:space="preserve">
+    <value>blackandwhiteTSMI</value>
+  </data>
+  <data name="&gt;&gt;editTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;convertToolStripMenuItem.Name" xml:space="preserve">
+    <value>convertToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;infoTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="aboutTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 29</value>
+  </data>
+  <data name="acidpunkTSMI.Text" xml:space="preserve">
+    <value>Acid punk</value>
+  </data>
+  <data name="editTSS2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 6</value>
+  </data>
+  <data name="&gt;&gt;zoom125TSMI.Name" xml:space="preserve">
+    <value>zoom125TSMI</value>
+  </data>
+  <data name="openTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+O</value>
+  </data>
+  <data name="&gt;&gt;pasteTSMI.Name" xml:space="preserve">
+    <value>pasteTSMI</value>
+  </data>
+  <data name="&gt;&gt;convertToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="grootTSMI.Text" xml:space="preserve">
+    <value>I. Am. Groot.</value>
+  </data>
+  <data name="&gt;&gt;topControl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="redoTSMI.Text" xml:space="preserve">
+    <value>Redo</value>
+  </data>
+  <data name="mainRTB.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;editTSS2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="encodingTSMI.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="exitButton.Text" xml:space="preserve">
+    <value>✕</value>
+  </data>
+  <data name="&gt;&gt;aboutTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="deleteTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="fontTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>279, 34</value>
+  </data>
+  <data name="&gt;&gt;printDialog.Name" xml:space="preserve">
+    <value>printDialog</value>
+  </data>
+  <data name="zoomTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>279, 34</value>
+  </data>
+  <data name="&gt;&gt;saveTSMI.Name" xml:space="preserve">
+    <value>saveTSMI</value>
+  </data>
+  <data name="creditsTSMI.Text" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="exitTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="&gt;&gt;encodeToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="maximizeButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="&gt;&gt;saveAsTSMI.Name" xml:space="preserve">
+    <value>saveAsTSMI</value>
+  </data>
+  <data name="blackandwhiteTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 34</value>
+  </data>
+  <data name="deleteTSMI.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="&gt;&gt;zoom75TSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rightControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mainRTB.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;topControl.Name" xml:space="preserve">
+    <value>topControl</value>
+  </data>
+  <data name="&gt;&gt;bottomControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;formatTSMI.Name" xml:space="preserve">
+    <value>formatTSMI</value>
+  </data>
+  <data name="&gt;&gt;encodeToolStripMenuItem.Name" xml:space="preserve">
+    <value>encodeToolStripMenuItem</value>
+  </data>
+  <data name="toolbarMenuStrip.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="bottomControl.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="formatTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 29</value>
+  </data>
+  <data name="&gt;&gt;zoomTSMI.Name" xml:space="preserve">
+    <value>zoomTSMI</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="mainRTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>924, 439</value>
+  </data>
+  <data name="convertToolStripMenuItem.Text" xml:space="preserve">
+    <value>Convert...</value>
+  </data>
+  <data name="&gt;&gt;infoLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;fakeMenuStrip.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gripControl1.Type" xml:space="preserve">
+    <value>FakeNotepad.GripControl, FakeNotepad, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;aboutTSMI.Name" xml:space="preserve">
+    <value>aboutTSMI</value>
+  </data>
+  <data name="&gt;&gt;rightControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="selectTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Ctrl+A</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;openTSMI.Name" xml:space="preserve">
+    <value>openTSMI</value>
+  </data>
+  <data name="barbiegirlTSMI.Text" xml:space="preserve">
+    <value>Barbie girl (default)</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="bottomControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-9, 542</value>
+  </data>
+  <data name="themeTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>279, 34</value>
+  </data>
+  <data name="maximizeButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="themeTSMI.Text" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="fileTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 29</value>
+  </data>
+  <data name="newWindowTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Shift+N</value>
+  </data>
+  <data name="&gt;&gt;editTSS2.Name" xml:space="preserve">
+    <value>editTSS2</value>
+  </data>
+  <data name="&gt;&gt;fontTSMI.Name" xml:space="preserve">
+    <value>fontTSMI</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="redoTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="maximizeButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="decodeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 34</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="fileTSS1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>377, 6</value>
+  </data>
+  <data name="infoTB.Text" xml:space="preserve">
+    <value>Status bar:          {Encoding Placeholder}   {LinePositionPlaceholder}   {CursorPositionPlaceholder}   {SizePlaceholder}</value>
+  </data>
+  <data name="&gt;&gt;infoTB.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="openTSMI.Text" xml:space="preserve">
+    <value>Open...</value>
+  </data>
+  <data name="&gt;&gt;maximizeButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;leftControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Name" xml:space="preserve">
+    <value>exitButton</value>
+  </data>
+  <data name="exitButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;existTSMI.Name" xml:space="preserve">
+    <value>existTSMI</value>
+  </data>
+  <data name="newTSMI.Text" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="exitTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Q</value>
+  </data>
+  <data name="editTSS1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 6</value>
+  </data>
+  <data name="&gt;&gt;undoTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;themeTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;openFileDialog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mainRTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;zoom50TSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="infoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;openFileDialog.Name" xml:space="preserve">
+    <value>openFileDialog</value>
+  </data>
+  <data name="&gt;&gt;selectTSMI.Name" xml:space="preserve">
+    <value>selectTSMI</value>
+  </data>
+  <data name="&gt;&gt;decodeToolStripMenuItem.Name" xml:space="preserve">
+    <value>decodeToolStripMenuItem</value>
+  </data>
+  <data name="selectTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="printTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="editTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 29</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="encodeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Encode...</value>
+  </data>
+  <data name="newWindowTSMI.Text" xml:space="preserve">
+    <value>Create new window</value>
+  </data>
+  <data name="grootTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 34</value>
+  </data>
+  <data name="&gt;&gt;zoom125TSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;infoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mainRTB.ScrollBars" type="System.Windows.Forms.RichTextBoxScrollBars, System.Windows.Forms">
+    <value>ForcedBoth</value>
+  </data>
+  <data name="infoTB.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="infoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 524</value>
+  </data>
+  <data name="&gt;&gt;minimizeButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fakeMenuStrip.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;zoom150TSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zoom100TSMI.Text" xml:space="preserve">
+    <value>100%</value>
+  </data>
+  <data name="newWindowTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="&gt;&gt;printTSMI.Name" xml:space="preserve">
+    <value>printTSMI</value>
+  </data>
+  <data name="zoom50TSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 34</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>924, 549</value>
+  </data>
+  <data name="redoTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Ctrl+U</value>
+  </data>
+  <data name="&gt;&gt;newTSMI.Name" xml:space="preserve">
+    <value>newTSMI</value>
+  </data>
+  <data name="&gt;&gt;grootTSMI.Name" xml:space="preserve">
+    <value>grootTSMI</value>
+  </data>
+  <data name="&gt;&gt;redoTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;topControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="exitButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>884, 0</value>
+  </data>
+  <data name="&gt;&gt;maximizeButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gripControl1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;printDocument.Name" xml:space="preserve">
+    <value>printDocument</value>
+  </data>
+  <data name="&gt;&gt;mainRTB.Name" xml:space="preserve">
+    <value>mainRTB</value>
+  </data>
+  <data name="zoom150TSMI.Text" xml:space="preserve">
+    <value>150%</value>
+  </data>
+  <data name="&gt;&gt;zoom100TSMI.Name" xml:space="preserve">
+    <value>zoom100TSMI</value>
+  </data>
+  <data name="cutTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Ctrl+X</value>
+  </data>
+  <data name="&gt;&gt;minimizeButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="aboutTSMI.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="&gt;&gt;sizableControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zoom150TSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 34</value>
+  </data>
+  <data name="fakeMenuStrip.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;infoLabel.Name" xml:space="preserve">
+    <value>infoLabel</value>
+  </data>
+  <data name="&gt;&gt;cutTSMI.Name" xml:space="preserve">
+    <value>cutTSMI</value>
+  </data>
+  <data name="&gt;&gt;printDialog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PrintDialog, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="saveTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+S</value>
+  </data>
+  <data name="&gt;&gt;undoTSMI.Name" xml:space="preserve">
+    <value>undoTSMI</value>
+  </data>
+  <data name="&gt;&gt;newTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;zoom50TSMI.Name" xml:space="preserve">
+    <value>zoom50TSMI</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="&gt;&gt;maximizeButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grootTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="fakeMenuStrip.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;toolbarMenuStrip.Name" xml:space="preserve">
+    <value>toolbarMenuStrip</value>
+  </data>
+  <data name="zoom125TSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 34</value>
+  </data>
+  <data name="&gt;&gt;copyTSMI.Name" xml:space="preserve">
+    <value>copyTSMI</value>
+  </data>
+  <data name="topControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-8, -45</value>
+  </data>
+  <data name="&gt;&gt;headerLabel.Name" xml:space="preserve">
+    <value>headerLabel</value>
+  </data>
+  <data name="copyTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="saveAsTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="headerLabel.Text" xml:space="preserve">
+    <value>fkntpd - the best notepad in the world</value>
+  </data>
+  <data name="&gt;&gt;zoom75TSMI.Name" xml:space="preserve">
+    <value>zoom75TSMI</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="pasteTSMI.Text" xml:space="preserve">
+    <value>Paste</value>
+  </data>
+  <data name="&gt;&gt;newWindowTSMI.Name" xml:space="preserve">
+    <value>newWindowTSMI</value>
+  </data>
+  <data name="editTSMI.Text" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="topControl.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;fontDialog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FontDialog, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bottomControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="printTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+P</value>
+  </data>
+  <data name="minimizeButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="newTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+N</value>
+  </data>
+  <data name="&gt;&gt;gitTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;blackandwhiteTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="headerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>426, 32</value>
+  </data>
+  <data name="blackandwhiteTSMI.Text" xml:space="preserve">
+    <value>Black and white</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>144, 144</value>
+  </data>
+  <data name="&gt;&gt;exitTSMI.Name" xml:space="preserve">
+    <value>exitTSMI</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 487</value>
+  </data>
+  <data name="&gt;&gt;exitTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cutTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="minimizeButton.Text" xml:space="preserve">
+    <value>🗕</value>
+  </data>
+  <data name="&gt;&gt;headerLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;fileTSS1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cutTSMI.Text" xml:space="preserve">
+    <value>Cut</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 539</value>
+  </data>
+  <data name="toolbarMenuStrip.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;toolbarMenuStrip.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;deleteTSMI.Name" xml:space="preserve">
+    <value>deleteTSMI</value>
+  </data>
+  <data name="&gt;&gt;gripControl1.Name" xml:space="preserve">
+    <value>gripControl1</value>
+  </data>
+  <data name="undoTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="exitButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="fileTSS2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>377, 6</value>
+  </data>
+  <data name="minimizeButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;printTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="acidpunkTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 34</value>
+  </data>
+  <data name="&gt;&gt;gripControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;headerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;muricaTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="infoTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 512</value>
+  </data>
+  <data name="&gt;&gt;infoTB.Name" xml:space="preserve">
+    <value>infoTB</value>
+  </data>
+  <data name="exitButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="gripControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 539</value>
+  </data>
+  <data name="saveAsTSMI.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Shift+S</value>
+  </data>
+  <data name="maximizeButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>844, 0</value>
+  </data>
+  <data name="copyTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Ctrl+C</value>
+  </data>
+  <data name="&gt;&gt;fontTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pasteTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="encodingTSMI.Text" xml:space="preserve">
+    <value>Encoding (not ready)</value>
+  </data>
+  <data name="maximizeButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="maximizeButton.Text" xml:space="preserve">
+    <value>🗖</value>
+  </data>
+  <data name="&gt;&gt;editTSS1.Name" xml:space="preserve">
+    <value>editTSS1</value>
+  </data>
+  <data name="gripControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;rightControl.Name" xml:space="preserve">
+    <value>rightControl</value>
+  </data>
+  <data name="muricaTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 34</value>
+  </data>
+  <data name="pasteTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Ctrl+V</value>
+  </data>
+  <data name="gitTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 34</value>
+  </data>
+  <data name="headerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 4</value>
+  </data>
+  <data name="&gt;&gt;headerLabel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;encodingTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;wordWrapTSMI.Name" xml:space="preserve">
+    <value>wordWrapTSMI</value>
+  </data>
+  <data name="&gt;&gt;sizableControl.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="exitButton.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="zoom50TSMI.Text" xml:space="preserve">
+    <value>50%</value>
+  </data>
+  <data name="sizableControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="encodeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 34</value>
+  </data>
+  <data name="&gt;&gt;fileTSS1.Name" xml:space="preserve">
+    <value>fileTSS1</value>
+  </data>
+  <data name="&gt;&gt;leftControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="infoTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>924, 37</value>
+  </data>
+  <data name="zoom100TSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 34</value>
+  </data>
+  <data name="copyTSMI.Text" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="infoTB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;barbiegirlTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="infoTB.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="existTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="undoTSMI.Text" xml:space="preserve">
+    <value>Undo</value>
+  </data>
+  <data name="&gt;&gt;mainRTB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;fileTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mainRTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 73</value>
+  </data>
+  <data name="&gt;&gt;gitTSMI.Name" xml:space="preserve">
+    <value>gitTSMI</value>
+  </data>
+  <data name="cutTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="leftControl.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="muricaTSMI.Text" xml:space="preserve">
+    <value>Enemy team (MURICA)</value>
+  </data>
+  <data name="saveTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="saveFileDialog.Filter" xml:space="preserve">
+    <value>Text files (*.txt)|*.txt|RichTextFormat files|*.rtf|All files (*.*)|*.*</value>
+  </data>
+  <data name="&gt;&gt;formatTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="minimizeButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="zoom75TSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 34</value>
+  </data>
+  <data name="exitButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="openTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>380, 34</value>
+  </data>
+  <data name="barbiegirlTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 34</value>
+  </data>
+  <data name="&gt;&gt;fileTSS2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="pasteTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 34</value>
+  </data>
+  <data name="minimizeButton.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="wordWrapTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>279, 34</value>
+  </data>
+  <data name="&gt;&gt;bottomControl.Name" xml:space="preserve">
+    <value>bottomControl</value>
+  </data>
+  <data name="selectTSMI.Text" xml:space="preserve">
+    <value>Select all</value>
+  </data>
+  <data name="exitTSMI.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="&gt;&gt;newWindowTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;creditsTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sizableControl.Name" xml:space="preserve">
+    <value>sizableControl</value>
+  </data>
+  <data name="deleteTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Del</value>
+  </data>
+  <data name="fakeMenuStrip.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="zoom75TSMI.Text" xml:space="preserve">
+    <value>75%</value>
+  </data>
+  <data name="&gt;&gt;fakeMenuStrip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;decodeToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="undoTSMI.ShortcutKeyDisplayString" xml:space="preserve">
+    <value>Ctrl+Z</value>
+  </data>
+  <data name="fileTSMI.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="&gt;&gt;themeTSMI.Name" xml:space="preserve">
+    <value>themeTSMI</value>
+  </data>
+  <data name="&gt;&gt;deleteTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveAsTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fakeMenuStrip.Name" xml:space="preserve">
+    <value>fakeMenuStrip</value>
+  </data>
+  <data name="zoom125TSMI.Text" xml:space="preserve">
+    <value>125%</value>
+  </data>
+  <data name="&gt;&gt;fontDialog.Name" xml:space="preserve">
+    <value>fontDialog</value>
+  </data>
+  <data name="&gt;&gt;fileTSS2.Name" xml:space="preserve">
+    <value>fileTSS2</value>
+  </data>
+  <data name="&gt;&gt;openTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;infoLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="decodeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Decode...</value>
+  </data>
+  <data name="gitTSMI.Text" xml:space="preserve">
+    <value>Git link</value>
+  </data>
+  <data name="&gt;&gt;minimizeButton.Name" xml:space="preserve">
+    <value>minimizeButton</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>450, 225</value>
+  </data>
+  <data name="&gt;&gt;saveTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="creditsTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 34</value>
+  </data>
+  <data name="&gt;&gt;maximizeButton.Name" xml:space="preserve">
+    <value>maximizeButton</value>
+  </data>
+  <data name="saveTSMI.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="encodingTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>279, 34</value>
+  </data>
+  <data name="&gt;&gt;creditsTSMI.Name" xml:space="preserve">
+    <value>creditsTSMI</value>
+  </data>
+  <data name="&gt;&gt;zoom150TSMI.Name" xml:space="preserve">
+    <value>zoom150TSMI</value>
+  </data>
+  <data name="&gt;&gt;wordWrapTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="fakeMenuStrip.Size" type="System.Drawing.Size, System.Drawing">
+    <value>924, 40</value>
+  </data>
+  <data name="saveAsTSMI.Text" xml:space="preserve">
+    <value>Save as...</value>
+  </data>
+  <data name="&gt;&gt;saveFileDialog.Name" xml:space="preserve">
+    <value>saveFileDialog</value>
+  </data>
+  <data name="&gt;&gt;fileTSMI.Name" xml:space="preserve">
+    <value>fileTSMI</value>
+  </data>
+  <data name="printTSMI.Text" xml:space="preserve">
+    <value>Print</value>
+  </data>
+  <data name="&gt;&gt;acidpunkTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="fakeMenuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="openFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>829, 17</value>
+  </metadata>
+  <metadata name="toolbarMenuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>20, 76</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <metadata name="printDocument.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>474, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="saveFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>651, 17</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>en-US</value>
+  </metadata>
+  <metadata name="printDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>321, 17</value>
+  </metadata>
+  <metadata name="fontDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>189, 18</value>
+  </metadata>
+</root>
